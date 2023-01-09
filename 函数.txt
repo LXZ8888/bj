@@ -1,0 +1,21 @@
+1、时间函数计算
+h = parseInt((count / 60 / 60) % 24) // 计算小时
+m = parseInt((count / 60) % 60) // 计算分数
+s = parseInt(count % 60)
+
+
+2、随机点名
+     function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min)) + min;
+        }
+
+3、  遍历方法
+// filter方法作用，用于遍历数组，根据条件进行筛选，最终所有的满足条件的元素会以数组的形式返回。
+        /* 
+        // 语法：
+            数组.filter( function(item,index,arr){
+                return 条件;
+            } )
+        */
