@@ -1,0 +1,121 @@
+/* 保存首页专属的css代码 */
+.bg {
+    margin-top: 26px;
+    height: 120px;
+    /* background-color: pink; */
+    
+}
+
+img {
+    height: 120px;
+    width: 1226px;
+}
+
+/* 手机模块 */
+
+.xm-fresh {
+    height: 672px;
+    margin-top: 30px;
+    background-color: pink;
+  }
+  
+  .xm-fresh .fresh-hd {
+    height: 62px;
+  }
+  .xm-fresh .fresh-hd h2 {
+    float: left;
+    font-weight: normal;
+    font-size: 29px;
+  }
+  
+  
+  
+  .xm-fresh .fresh-hd ul {
+    float: left;
+    margin-left: 674px;
+    margin-top: 6px;
+  }
+  .xm-fresh .fresh-hd li {
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    margin-right: 6px;
+  }
+  
+  .xm-fresh .fresh-hd li a {
+    padding: 0 7px;
+  }
+  .xm-fresh .fresh-hd li a:hover {
+    background-color: #27ba9b;
+    color: #fff;
+  }
+  
+/* bd */
+
+
+
+  .xm-fresh .fresh-bd {
+    height: 615px;
+  }
+  .xm-fresh .fresh-bd .zp {
+    float: left;
+    width: 234px;
+    height: 615px;
+    background-color: red;
+  }
+  
+  .xm-fresh .fresh-bd .list {
+    width: 977px;
+    height: 615px;
+    float: right;
+  }
+  .xm-fresh .fresh-bd .list li {
+    float: left;
+    width: 234px;
+    height: 300px;
+  }
+
+
+  -------------------
+  .xm-fresh .fresh-bd .list .current {
+    display: block;
+    width: 100%;
+    height: 100%;
+    /* padding-top: 8px;
+    padding-left: 29px; */
+  }
+  .xm-fresh .fresh-bd .current img {
+    width: 234px;
+    height: 158px;
+    margin-bottom: 14px;
+  }
+  
+  /* .xm-fresh .fresh-bd .current .desc {
+    margin-bottom: 3px;
+  } */
+  .xm-fresh .fresh-bd .current .price {
+    font-size: 13px;
+    color: #ff6700;
+    margin-top: 18px;
+  }
+  /* .xm-fresh .fresh-bd .price span {
+    font-size: 17px;
+    margin-right: 1px;
+  } */
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
