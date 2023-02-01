@@ -1,0 +1,29 @@
+实际操作：https://www.runoob.com/w3cnote/flex-grammar.html
+
+flex应用场景：
+居中问题
+水平居中
+垂直居中
+水平垂直居中
+
+比例分配问题
+剩余空间分配问题(定宽+自适应问题)
+
+移动端常见布局“”https://blog.csdn.net/weixin_44278155/article/details/112737278
+流式布局也叫百分比布局
+flex布局也叫弹性布局
+Less+rem+媒体查询布局，实际用flexible.js+rem居多
+响应式布局也就是利用bootstrap
+混合布局,可以根据不同的组件需求 ,做出相应的 布局方式 ,并不局限在哪一种 ,例如我们全局使用rem适配 ,部分盒子照样用flex布局 可以混用,并不影响.(同上rem里面运用了flex)
+
+屏幕适配
+1·通过Media Queries 媒体查询，通过查询设备的宽度来执行不同的 css 代码--
+2·使用弹性布局--
+3·根据屏幕宽度设置 rem ，需要适配的元素都使用 rem 为单位--
+4.vw,vh适配--
+
+二倍图和物理像素以及物理像素比。750px设计稿
+
+
+
+移动web解决方案掘金网：https://juejin.cn/collection/7195032428145016888
